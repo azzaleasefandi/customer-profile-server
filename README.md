@@ -1,3 +1,6 @@
+## Description
+This is back end for customer profile using nest js where customer can create, update and delete their profile. All the data is store in MongoDB database uisng mongoose schema.
+
 ## Requirement
 - Docker Desktop
 - Node

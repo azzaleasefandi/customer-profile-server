@@ -24,3 +24,10 @@ $ npm run start:dev
 # production mode
 $ npm run start:prod
 ```
+## Running the database
+
+```bash
+1. Open another terminal and run command: docker compose up
+2. Connect with MONGODB tools such as ROBOT3
+3. Using web service API for example POSTMAN, you can now add new profile, update or delete and observe database
+```
